@@ -61,7 +61,7 @@ streamlit run app.py
 
 | File | Purpose |
 |---|---|
-| `Untitled-1.ipynb` | Exploration, cleaning and model comparison |
+| `churn_analysis.ipynb` | Exploration, cleaning and model comparison |
 | `churn_pipeline.py` | Shared cleaning and preprocessing used by both training and the app |
 | `train_model.py` | Reproducible training script that saves the model bundle |
 | `app.py` | Streamlit dashboard |
